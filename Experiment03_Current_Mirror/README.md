@@ -1,1 +1,1 @@
-
+Simple and cascode current mirrors were designed for 1 mA using the gm/Id methodology with gm/Id = 15. Device widths were obtained from the characterized current density (W = I_D/(I_D/W)) and scale linearly with current at fixed gm/Id. Simulation confirmed that the cascode mirror has a much higher output resistance and a flatter I_D–V_out characteristic
